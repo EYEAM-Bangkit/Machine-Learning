@@ -1,2 +1,3 @@
 # Machine-Learning
-ML part of EYEAM project.
+A Repository for Machine Learning Part Development Team of EYEAM Project :
+ 

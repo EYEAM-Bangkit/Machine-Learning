@@ -13,3 +13,8 @@ EYEAM:  Endangered Animal the idea off Our App to Educate anyone to carrying for
 
 Classify the Images
 --
+For Classify the Images, we compiling 300 images for self-made dataset (Among them are 6 classes with 50 pictures). Then we proceeds to do data splitting for training-test data and pre-processing. Baseline model is made, then enhanced using experiments with image augmentation and tuning the parameter with transfer learning (InceptionV3 and MobileNetV2). The best model, transfer learning InceptionV3, is chosen and exported to .h5 format for deployment.
+
+Dataset
+--
+We decided to build our own dataset because we didn't find the right dataset for our project. We crawl and search data from many sources and make it into a single dataset which you can view in the rigt here <a href="https://github.com/EYEAM-Bangkit/Machine-Learning/tree/main/EYEAM%20Image%20Data">here</a>

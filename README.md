@@ -17,4 +17,4 @@ For Classify the Images, we compiling 300 images for self-made dataset (Among th
 
 Dataset
 --
-We decided to build our own dataset because we didn't find the right dataset for our project. We crawl and search data from many sources and make it into a single dataset which you can view in the rigt here <a href="https://github.com/EYEAM-Bangkit/Machine-Learning/tree/main/EYEAM%20Image%20Data">here</a>
+We decided to build our own dataset because we didn't find the right dataset for our project. We crawl and search data from many sources and make it into a single dataset which you can view in the right <a href="https://github.com/EYEAM-Bangkit/Machine-Learning/tree/main/EYEAM%20Image%20Data">here</a>
